@@ -1,0 +1,30 @@
+.logo{
+    width: 40%;
+}
+.button-green{
+    background-color: #21B573;
+    text-align: center;
+    height: 30px;
+    width: 80px;
+    border-radius: 20px;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+.image-banner{
+    width: 95%;
+}
+.background{
+    background-color: #F0FFF0 ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    padding: 3px;
+}
+.image{
+    width: 10%;
+    height: 10%;
+}
+.box{
+    display: inline;
+    height: 350px;
+    width: 100px;
+    border: 2px solid red;
+}
